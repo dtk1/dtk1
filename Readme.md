@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/6dtk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6dtk6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daulet-tlegenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daulet-tlegenov" height="30" width="40" /></a>
-<a href="https://instagram.com/dazheneznaukakskazat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dazheneznaukakskazat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dtk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dtk6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daulet-tlegenov-59a506242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daulet-tlegenov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dauletlegenov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dauletlegenov" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0FFi56d3l-uvbPkCJB7ESw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dtk6" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dtk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dtk6" height="30" width="40" /></a>
 </p>
 
